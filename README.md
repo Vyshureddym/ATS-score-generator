@@ -30,3 +30,28 @@ HTML, CSS
 JavaScript
 SQL (if used)
 Render (Deployment)
+
+Improvements Made By Me:
+Improved project documentation
+Enhanced resume parsing logic
+Optimized keyword matching algorithm
+Improved UI design
+Added better ATS scoring logic
+
+Future Enhancements:
+Multi-job comparison
+Resume keyword auto-enhancer
+Download improved resume
+User authentication system
+
+Author
+VYSHU REDDY
+
+ Why This Project is useful:
+
+This project demonstrates my understanding of:
+- Generative AI
+- NLP-based text analysis
+- API integration
+- Backend development using FastAPI
+- Real-world AI use case in recruitment automation
