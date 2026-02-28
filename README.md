@@ -44,7 +44,7 @@ Resume keyword auto-enhancer
 Download improved resume
 User authentication system
 
-Author
+Author :
 VYSHU REDDY
 
  Why This Project is useful:
